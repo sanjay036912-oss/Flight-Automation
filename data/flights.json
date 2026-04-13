@@ -1,0 +1,27 @@
+[
+    {
+        "flight_number": 1,
+        "airline": "Virgin America",
+        "price": "$472.56"
+    },
+    {
+        "flight_number": 2,
+        "airline": "United Airlines",
+        "price": "$432.98"
+    },
+    {
+        "flight_number": 3,
+        "airline": "Aer Lingus",
+        "price": "$200.98"
+    },
+    {
+        "flight_number": 4,
+        "airline": "Virgin America",
+        "price": "$765.32"
+    },
+    {
+        "flight_number": 5,
+        "airline": "Lufthansa",
+        "price": "$233.98"
+    }
+]
